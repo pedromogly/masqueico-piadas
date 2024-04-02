@@ -19,6 +19,16 @@ class App extends Component{
       'Por que o macaco foi expulso da escola? Porque ele estava aprontando muitas macaquices!',
       'O que o macaco disse para a banana? Nada, bananas não falam!',
       'Por que o macaco gosta de dançar? Porque ele é um "macaquerengue"!',
+      'Qual é o animal que os macacos mais temem? O gorila-colosso!',
+      'O que acontece quando um macaco quebra um espelho? Ele tem sete anos de macacada ruim!',
+      'Por que os macacos não usam computadores? Porque eles têm medo do mouse!',
+      'Qual é o cantor favorito dos macacos? Justin Bananaber!',
+      'Por que o macaco foi ao circo? Para se pendurar na trapezista!',
+      'Qual é o programa de TV favorito dos macacos? "A Fazenda"!',
+      'O que o macaco disse para a máquina de lavar? Pare de jogar roupas sujas no ventilador!',
+      'Por que o macaco foi para a escola? Para aprender a fazer "macacadas" de matemática!',
+      'Qual é o lugar favorito dos macacos para se sentar? No galho de um "lounge"!',
+      'Por que o macaco não usa celular? Porque ele já tem uma rede social: a selva!',      
     ];
 
     
